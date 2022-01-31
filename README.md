@@ -26,4 +26,4 @@ While choosing the parameters (mean and covariance), the Maximum A Posterior Cla
 7. The trained MLP model is then used for Performance Assessment on the test set comprising of 100000 input samples.
 8. The results (graph between Probability of Error and Number of Data Points in training data using semilog axis) were plotted using Matplotlib.
     
-The Project was executed on Google Colab. Further detailed description and output results are in the uploaded file!
+The Project was executed on Google Colab. Further detailed description and output results are in the uploaded file (MLP.pdf) !
